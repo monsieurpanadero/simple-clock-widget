@@ -1,13 +1,13 @@
 stylingOptions =
-  background: 'rgba(#fff, 0.2)' 
+  background: 'rgba(#fff, 0)' 
   # show fullscreen -> true
   fullscreen: false
   # display position 'top', 'middle', 'bottom'
-  vertical: 'bottom'
+  vertical: 'top'
 
 dateOptions =
   # display not only 'time' also 'date'
-  showDate: false
+  showDate: true
   # format of 'date'
   date: '%d/%m/%Y %a'
 
